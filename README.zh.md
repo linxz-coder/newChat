@@ -1,4 +1,4 @@
-<p> English<a href="README.md"></a> |  简体中文 </p>
+<p><a href="README.md"> English</a> |  简体中文 </p>
 <br>
 
 # 软件作用
