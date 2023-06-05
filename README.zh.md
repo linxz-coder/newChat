@@ -1,3 +1,6 @@
+<p> English<a href="README.md"> |  简体中文 </a></p>
+<br>
+
 # 软件作用
 打开ChatGPT new chat的快捷方式。
 
@@ -5,7 +8,7 @@ mac: command + K
 windows: windows + K
 
 效果如下：
-![image](https://github.com/linxz-coder/newChat/raw/main/newchat.user.js)
+![image](https://github.com/linxz-coder/img-folder/blob/main/newchat.gif)
 
 <br><br>
 # 安装步骤
