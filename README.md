@@ -8,7 +8,7 @@ windows: <code>windows + K</code>
 
 <br>
 
-The effect can be seen at this link:
+The effect can be seen here:
 ![image](https://raw.githubusercontent.com/linxz-coder/img-folder/main/newchat.gif)
 
 <br><br>
